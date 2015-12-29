@@ -45,5 +45,6 @@ $ git submodule add https://github.com/vim-scripts/Darcula-Color-Scheme vim/bund
 $ git submodule add https://github.com/vim-scripts/Fruidle vim/bundle/fruidle
 $ git submodule add https://github.com/vim-scripts/molokai vim/bundle/molokai
 $ git submodule add https://github.com/vim-scripts/Zenburn vim/bundle/zenburn
+$ git submodule add https://github.com/vim-scripts/CSApprox.git vim/bundle/csapprox
 ```
 

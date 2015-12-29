@@ -1,5 +1,5 @@
 " Personal Settings
-colorscheme darcula      " Load personnal colors
+colorscheme intellij      " Load personnal colors
 
 set enc=utf8
 set fenc=utf8
