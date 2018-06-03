@@ -1,5 +1,6 @@
 " Personal Settings
-colorscheme intellij      " Load personnal colors
+set background=light
+set rtp+=/opt/homebrew/opt/fzf
 
 set enc=utf8
 set fenc=utf8
