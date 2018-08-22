@@ -1,18 +1,18 @@
-[submodule "vim/bundle/a"]
-	path = vim/bundle/a
+[submodule "vim/pack/plugins/start/a"]
+	path = vim/pack/plugins/start/a
 	url = https://github.com/vim-scripts/a.vim
-[submodule "vim/bundle/minibufexpl"]
-	path = vim/bundle/minibufexpl
+[submodule "vim/pack/plugins/start/minibufexpl"]
+	path = vim/pack/plugins/start/minibufexpl
 	url = https://github.com/fholgado/minibufexpl.vim
-[submodule "vim/bundle/darcula"]
-	path = vim/bundle/darcula
+[submodule "vim/pack/plugins/start/darcula"]
+	path = vim/pack/plugins/start/darcula
 	url = https://github.com/vim-scripts/Darcula-Color-Scheme
-[submodule "vim/bundle/fruidle"]
-	path = vim/bundle/fruidle
+[submodule "vim/pack/plugins/start/fruidle"]
+	path = vim/pack/plugins/start/fruidle
 	url = https://github.com/vim-scripts/Fruidle
-[submodule "vim/bundle/molokai"]
-	path = vim/bundle/molokai
+[submodule "vim/pack/plugins/start/molokai"]
+	path = vim/pack/plugins/start/molokai
 	url = https://github.com/vim-scripts/molokai
-[submodule "vim/bundle/zenburn"]
-	path = vim/bundle/zenburn
+[submodule "vim/pack/plugins/start/zenburn"]
+	path = vim/pack/plugins/start/zenburn
 	url = https://github.com/vim-scripts/Zenburn

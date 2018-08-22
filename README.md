@@ -32,19 +32,19 @@ Mine is included `jfy.vim`.
 ## Plugins and colors
 ### plugins
 ```sh
-$ git submodule add https://github.com/vim-scripts/a.vim vim/bundle/a
-$ git submodule add https://github.com/fholgado/minibufexpl.vim vim/bundle/minibufexpl
-$ git submodule add https://github.com/vim-scripts/TaskList.vim vim/bundle/tasklist
-$ git submodule add https://github.com/fatih/vim-go vim/bundle/vim-go
+$ git submodule add https://github.com/vim-scripts/a.vim vim/pack/plugins/a
+$ git submodule add https://github.com/fholgado/minibufexpl.vim vim/pack/plugins/minibufexpl
+$ git submodule add https://github.com/vim-scripts/TaskList.vim vim/pack/plugins/tasklist
+$ git submodule add https://github.com/fatih/vim-go vim/pack/plugins/vim-go
 ```
 
 ### Colors
 
 ```sh
-$ git submodule add https://github.com/vim-scripts/Darcula-Color-Scheme vim/bundle/darcula
-$ git submodule add https://github.com/vim-scripts/Fruidle vim/bundle/fruidle
-$ git submodule add https://github.com/vim-scripts/molokai vim/bundle/molokai
-$ git submodule add https://github.com/vim-scripts/Zenburn vim/bundle/zenburn
-$ git submodule add https://github.com/vim-scripts/CSApprox.git vim/bundle/csapprox
+$ git submodule add https://github.com/vim-scripts/Darcula-Color-Scheme vim/pack/plugins/darcula
+$ git submodule add https://github.com/vim-scripts/Fruidle vim/pack/plugins/fruidle
+$ git submodule add https://github.com/vim-scripts/molokai vim/pack/plugins/molokai
+$ git submodule add https://github.com/vim-scripts/Zenburn vim/pack/plugins/zenburn
+$ git submodule add https://github.com/vim-scripts/CSApprox.git vim/pack/plugins/csapprox
 ```
 
