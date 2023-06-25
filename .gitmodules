@@ -4,15 +4,3 @@
 [submodule "vim/pack/plugins/start/minibufexpl"]
 	path = vim/pack/plugins/start/minibufexpl
 	url = https://github.com/fholgado/minibufexpl.vim
-[submodule "vim/pack/plugins/start/darcula"]
-	path = vim/pack/plugins/start/darcula
-	url = https://github.com/vim-scripts/Darcula-Color-Scheme
-[submodule "vim/pack/plugins/start/fruidle"]
-	path = vim/pack/plugins/start/fruidle
-	url = https://github.com/vim-scripts/Fruidle
-[submodule "vim/pack/plugins/start/molokai"]
-	path = vim/pack/plugins/start/molokai
-	url = https://github.com/vim-scripts/molokai
-[submodule "vim/pack/plugins/start/zenburn"]
-	path = vim/pack/plugins/start/zenburn
-	url = https://github.com/vim-scripts/Zenburn
